@@ -1,0 +1,21 @@
+*{
+    background-color:black;
+    color: aliceblue;
+    
+}
+.body{
+    border: 2px solid white;
+    padding: 1px;
+    margin: auto;
+    border-radius: 2%;
+    align-items: center;
+    max-width: 50rem;
+}
+h1{
+    text-align: center;
+}
+.contact{
+    width: 20%;
+} 
+
+
